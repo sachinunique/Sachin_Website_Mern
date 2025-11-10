@@ -14,6 +14,8 @@ import UpdatePost from "./Pages/UpdatePost";
 import PostPage from "./Pages/PostPage";
 import ScrollToTop from './components/ScrollToTop';
 import Search from "./Pages/Search";
+import React from "react";
+
 
 export default function App() {
   return (
